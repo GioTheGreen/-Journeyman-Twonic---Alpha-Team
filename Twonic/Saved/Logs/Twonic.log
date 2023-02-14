@@ -10568,3 +10568,190 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.14-15.27.02:597][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.02.14-15.27.02:667][ 28]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
 [2023.02.14-15.27.02:667][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.14-15.27.43:953][593]LogObjectTools: Deleting 1 worlds: /Game/Owen/NewWorld.NewWorld
+[2023.02.14-15.27.43:953][593]LogObjectTools: Currently 10 active worlds: /Game/Roles/Designer/Clayton/Level/Tunic_Overworld_L1.Tunic_Overworld_L1, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_6, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_13
+[2023.02.14-15.27.44:014][593]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2023.02.14-15.27.44:906][593]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.14-15.27.44:917][593]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2023.02.14-15.27.44:917][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.14-15.27.45:002][593]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2023.02.14-15.27.45:026][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.02.14-15.27.45:041][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.02.14-15.29.18:721][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.02.14-15.29.21:260][764]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.14-15.29.48:342][858]LogLinker: Warning: [AssetLog] C:\Users\B1078130\Documents\GitHub\-Journeyman-Twonic---Alpha-Team\Twonic\Content\Owen\Bps\Enemy_BP.uasset: Failed to load '/Game/StarterContent/Materials/M_Wood_Oak': Can't find file.
+[2023.02.14-15.29.48:342][858]LogLinker: Warning: [AssetLog] C:\Users\B1078130\Documents\GitHub\-Journeyman-Twonic---Alpha-Team\Twonic\Content\Owen\Bps\Enemy_BP.uasset: Failed to load '/Game/StarterContent/Materials/M_Wood_Oak': Can't find file.
+[2023.02.14-15.29.48:343][858]LogLinker: Warning: [AssetLog] C:\Users\B1078130\Documents\GitHub\-Journeyman-Twonic---Alpha-Team\Twonic\Content\Owen\Bps\Enemy_BP.uasset: Failed to load '/Game/StarterContent/Materials/M_Wood_Oak': Can't find file.
+[2023.02.14-15.29.48:343][858]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Wood_Oak': Can't find file.
+[2023.02.14-15.29.48:343][858]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Wood_Oak': Can't find file.
+[2023.02.14-15.29.48:343][858]LogLinker: Warning: [AssetLog] C:\Users\B1078130\Documents\GitHub\-Journeyman-Twonic---Alpha-Team\Twonic\Content\Owen\Bps\Enemy_BP.uasset: Failed to load '/Game/StarterContent/Materials/M_Wood_Oak': Can't find file.
+[2023.02.14-15.29.48:343][858]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Wood_Oak.M_Wood_Oak Referenced by Default__Enemy_BP_C
+[2023.02.14-15.29.48:391][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/SwordEvent.SwordEvent_C' ref from Metadata '/Game/Owen/SwordEvent.PackageMetaData'
+[2023.02.14-15.29.48:391][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/SwordEvent.SwordEvent:Received_NotifyBegin.K2Node_FunctionEntry_0' ref from Metadata '/Game/Owen/SwordEvent.PackageMetaData'
+[2023.02.14-15.29.48:391][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/SwordEvent.SwordEvent:Received_NotifyBegin.K2Node_FunctionResult_0' ref from Metadata '/Game/Owen/SwordEvent.PackageMetaData'
+[2023.02.14-15.29.48:391][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/SwordEvent.SwordEvent:Received_NotifyEnd.K2Node_FunctionResult_0' ref from Metadata '/Game/Owen/SwordEvent.PackageMetaData'
+[2023.02.14-15.29.48:391][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/SwordEvent.SwordEvent:Received_NotifyEnd.K2Node_FunctionEntry_0' ref from Metadata '/Game/Owen/SwordEvent.PackageMetaData'
+[2023.02.14-15.29.48:391][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/SwordEvent.SKEL_SwordEvent_C:Received_NotifyBegin' ref from Metadata '/Game/Owen/SwordEvent.PackageMetaData'
+[2023.02.14-15.29.48:391][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/SwordEvent.SKEL_SwordEvent_C:Received_NotifyEnd' ref from Metadata '/Game/Owen/SwordEvent.PackageMetaData'
+[2023.02.14-15.29.48:391][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/SwordEvent.SKEL_SwordEvent_C' ref from Metadata '/Game/Owen/SwordEvent.PackageMetaData'
+[2023.02.14-15.29.48:391][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/SwordEvent.SwordEvent_C:Received_NotifyBegin' ref from Metadata '/Game/Owen/SwordEvent.PackageMetaData'
+[2023.02.14-15.29.48:391][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/SwordEvent.SwordEvent_C:Received_NotifyEnd' ref from Metadata '/Game/Owen/SwordEvent.PackageMetaData'
+[2023.02.14-15.29.48:393][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Player_Character_attackAndSwitch_BP.Player_Character_attackAndSwitch_BP_C' ref from Metadata '/Game/Owen/Bps/Player_Character_attackAndSwitch_BP.PackageMetaData'
+[2023.02.14-15.29.48:393][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Player_Character_attackAndSwitch_BP.Player_Character_attackAndSwitch_BP:Equip Weapon.K2Node_FunctionEntry_0' ref from Metadata '/Game/Owen/Bps/Player_Character_attackAndSwitch_BP.PackageMetaData'
+[2023.02.14-15.29.48:393][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Player_Character_attackAndSwitch_BP.SKEL_Player_Character_attackAndSwitch_BP_C:InpAxisEvt_Left and Right Movement_K2Node_InputAxisEvent_4' ref from Metadata '/Game/Owen/Bps/Player_Character_attackAndSwitch_BP.PackageMetaData'
+[2023.02.14-15.29.48:393][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Player_Character_attackAndSwitch_BP.SKEL_Player_Character_attackAndSwitch_BP_C:TriggerSword' ref from Metadata '/Game/Owen/Bps/Player_Character_attackAndSwitch_BP.PackageMetaData'
+[2023.02.14-15.29.48:393][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Player_Character_attackAndSwitch_BP.SKEL_Player_Character_attackAndSwitch_BP_C:SwordLineTrace' ref from Metadata '/Game/Owen/Bps/Player_Character_attackAndSwitch_BP.PackageMetaData'
+[2023.02.14-15.29.48:393][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Player_Character_attackAndSwitch_BP.SKEL_Player_Character_attackAndSwitch_BP_C:StopTriggerSword' ref from Metadata '/Game/Owen/Bps/Player_Character_attackAndSwitch_BP.PackageMetaData'
+[2023.02.14-15.29.48:393][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Player_Character_attackAndSwitch_BP.SKEL_Player_Character_attackAndSwitch_BP_C:OnLanded' ref from Metadata '/Game/Owen/Bps/Player_Character_attackAndSwitch_BP.PackageMetaData'
+[2023.02.14-15.29.48:393][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Player_Character_attackAndSwitch_BP.SKEL_Player_Character_attackAndSwitch_BP_C:InpAxisEvt_Forwards and Backwards Movement_K2Node_InputAxisEvent_0' ref from Metadata '/Game/Owen/Bps/Player_Character_attackAndSwitch_BP.PackageMetaData'
+[2023.02.14-15.29.48:393][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Player_Character_attackAndSwitch_BP.SKEL_Player_Character_attackAndSwitch_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Owen/Bps/Player_Character_attackAndSwitch_BP.PackageMetaData'
+[2023.02.14-15.29.48:393][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Player_Character_attackAndSwitch_BP.SKEL_Player_Character_attackAndSwitch_BP_C:InpAxisKeyEvt_MouseWheelAxis_K2Node_InputAxisKeyEvent_0' ref from Metadata '/Game/Owen/Bps/Player_Character_attackAndSwitch_BP.PackageMetaData'
+[2023.02.14-15.29.48:393][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Player_Character_attackAndSwitch_BP.SKEL_Player_Character_attackAndSwitch_BP_C:UserConstructionScript' ref from Metadata '/Game/Owen/Bps/Player_Character_attackAndSwitch_BP.PackageMetaData'
+[2023.02.14-15.29.48:393][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Player_Character_attackAndSwitch_BP.SKEL_Player_Character_attackAndSwitch_BP_C' ref from Metadata '/Game/Owen/Bps/Player_Character_attackAndSwitch_BP.PackageMetaData'
+[2023.02.14-15.29.48:393][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Player_Character_attackAndSwitch_BP.Player_Character_attackAndSwitch_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Owen/Bps/Player_Character_attackAndSwitch_BP.PackageMetaData'
+[2023.02.14-15.29.48:393][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Player_Character_attackAndSwitch_BP.Player_Character_attackAndSwitch_BP_C:OnLanded' ref from Metadata '/Game/Owen/Bps/Player_Character_attackAndSwitch_BP.PackageMetaData'
+[2023.02.14-15.29.48:393][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Player_Character_attackAndSwitch_BP.Player_Character_attackAndSwitch_BP_C:UserConstructionScript' ref from Metadata '/Game/Owen/Bps/Player_Character_attackAndSwitch_BP.PackageMetaData'
+[2023.02.14-15.29.48:394][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Anims/SwordSlash.SwordSlash' ref from Metadata '/Game/Owen/Anims/SwordSlash.PackageMetaData'
+[2023.02.14-15.29.48:395][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/TwonicGameMode.TwonicGameMode_C' ref from Metadata '/Game/Owen/Bps/TwonicGameMode.PackageMetaData'
+[2023.02.14-15.29.48:395][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/TwonicGameMode.SKEL_TwonicGameMode_C:UserConstructionScript' ref from Metadata '/Game/Owen/Bps/TwonicGameMode.PackageMetaData'
+[2023.02.14-15.29.48:395][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/TwonicGameMode.SKEL_TwonicGameMode_C' ref from Metadata '/Game/Owen/Bps/TwonicGameMode.PackageMetaData'
+[2023.02.14-15.29.48:400][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Anims/Death.Death' ref from Metadata '/Game/Owen/Anims/Death.PackageMetaData'
+[2023.02.14-15.29.48:401][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Anims/HitReact.HitReact' ref from Metadata '/Game/Owen/Anims/HitReact.PackageMetaData'
+[2023.02.14-15.29.48:403][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Bull_BP.Bull_BP_C' ref from Metadata '/Game/Owen/Bps/Bull_BP.PackageMetaData'
+[2023.02.14-15.29.48:403][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Bull_BP.SKEL_Bull_BP_C:ReceiveAnyDamage' ref from Metadata '/Game/Owen/Bps/Bull_BP.PackageMetaData'
+[2023.02.14-15.29.48:403][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Bull_BP.SKEL_Bull_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Owen/Bps/Bull_BP.PackageMetaData'
+[2023.02.14-15.29.48:403][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Bull_BP.SKEL_Bull_BP_C:UserConstructionScript' ref from Metadata '/Game/Owen/Bps/Bull_BP.PackageMetaData'
+[2023.02.14-15.29.48:403][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Bull_BP.SKEL_Bull_BP_C' ref from Metadata '/Game/Owen/Bps/Bull_BP.PackageMetaData'
+[2023.02.14-15.29.48:403][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Bull_BP.Bull_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Owen/Bps/Bull_BP.PackageMetaData'
+[2023.02.14-15.29.48:403][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Bull_BP.Bull_BP_C:ReceiveAnyDamage' ref from Metadata '/Game/Owen/Bps/Bull_BP.PackageMetaData'
+[2023.02.14-15.29.48:404][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Enemy_BP.Enemy_BP_C' ref from Metadata '/Game/Owen/Bps/Enemy_BP.PackageMetaData'
+[2023.02.14-15.29.48:404][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Enemy_BP.Enemy_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Owen/Bps/Enemy_BP.PackageMetaData'
+[2023.02.14-15.29.48:404][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Enemy_BP.SKEL_Enemy_BP_C:ReceiveAnyDamage' ref from Metadata '/Game/Owen/Bps/Enemy_BP.PackageMetaData'
+[2023.02.14-15.29.48:404][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Enemy_BP.SKEL_Enemy_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Owen/Bps/Enemy_BP.PackageMetaData'
+[2023.02.14-15.29.48:404][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Enemy_BP.SKEL_Enemy_BP_C:UserConstructionScript' ref from Metadata '/Game/Owen/Bps/Enemy_BP.PackageMetaData'
+[2023.02.14-15.29.48:404][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Enemy_BP.SKEL_Enemy_BP_C' ref from Metadata '/Game/Owen/Bps/Enemy_BP.PackageMetaData'
+[2023.02.14-15.29.48:404][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Enemy_BP.Enemy_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Owen/Bps/Enemy_BP.PackageMetaData'
+[2023.02.14-15.29.48:404][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Enemy_BP.Enemy_BP_C:ReceiveAnyDamage' ref from Metadata '/Game/Owen/Bps/Enemy_BP.PackageMetaData'
+[2023.02.14-15.29.48:405][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Sword.Sword:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Owen/Bps/Sword.PackageMetaData'
+[2023.02.14-15.29.48:405][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Sword.Sword_C' ref from Metadata '/Game/Owen/Bps/Sword.PackageMetaData'
+[2023.02.14-15.29.48:405][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Sword.Sword:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Owen/Bps/Sword.PackageMetaData'
+[2023.02.14-15.29.48:405][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Sword.Sword:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Owen/Bps/Sword.PackageMetaData'
+[2023.02.14-15.29.48:405][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Sword.Sword:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Owen/Bps/Sword.PackageMetaData'
+[2023.02.14-15.29.48:405][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Sword.SKEL_Sword_C:ReceiveBeginPlay' ref from Metadata '/Game/Owen/Bps/Sword.PackageMetaData'
+[2023.02.14-15.29.48:405][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Sword.SKEL_Sword_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Owen/Bps/Sword.PackageMetaData'
+[2023.02.14-15.29.48:405][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Sword.SKEL_Sword_C:ReceiveTick' ref from Metadata '/Game/Owen/Bps/Sword.PackageMetaData'
+[2023.02.14-15.29.48:405][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Sword.SKEL_Sword_C:UserConstructionScript' ref from Metadata '/Game/Owen/Bps/Sword.PackageMetaData'
+[2023.02.14-15.29.48:405][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Sword.SKEL_Sword_C' ref from Metadata '/Game/Owen/Bps/Sword.PackageMetaData'
+[2023.02.14-15.29.48:405][858]LogMetaData: Removing '/Game/Roles/Designer/Owen/Bps/Sword.Sword_C:UserConstructionScript' ref from Metadata '/Game/Owen/Bps/Sword.PackageMetaData'
+[2023.02.14-15.29.48:446][858]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Sword068D14EA4E7B8CF20704C18891622520.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Sword.uasset'
+[2023.02.14-15.29.48:450][858]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Sword_Skeleton7A7A3AB140F860F66D4531BDCADB0E58.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Sword_Skeleton.uasset'
+[2023.02.14-15.29.48:467][858]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/knightSword_Mat1CE4842040DB691375B765BF82F1C54D.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/knightSword_Mat.uasset'
+[2023.02.14-15.29.48:476][858]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/knightSword85667EC3482E5A163C2BDFA79A76798C.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/knightSword.uasset'
+[2023.02.14-15.29.48:485][858]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/SwordEventCF4436B842805426FEA25AB1765F7A9F.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/SwordEvent.uasset'
+[2023.02.14-15.29.48:503][858]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/SwordSlash_Montage9B5DBAFD445A3AE21230BDA6D8FCC553.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Anims/SwordSlash_Montage.uasset'
+[2023.02.14-15.29.48:596][858]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Player_Character_attackAndSwitch8D92EC7849ED19C26C6364B7C7130759.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Bps/Player_Character_attackAndSwitch_BP.uasset'
+[2023.02.14-15.29.48:615][858]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/SwordSlashFAF3F69B48883B010489278FB59855DA.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Anims/SwordSlash.uasset'
+[2023.02.14-15.29.48:622][858]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/TwonicGameMode18D9EB2F42F3F4D6F48CEFAF68BC8C5C.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Bps/TwonicGameMode.uasset'
+[2023.02.14-15.29.48:626][858]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/TwonicGameModeC8B96A474EF07FAA0FF54F9D1C4F8881.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Owen/Bps/TwonicGameMode.uasset'
+[2023.02.14-15.29.48:646][858]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/DeathBA618E7B45E330C0885B748665B7838C.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Anims/Death.uasset'
+[2023.02.14-15.29.48:663][858]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Death_Montage4FD0732B4926BA8388C5FAB542870707.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Anims/Death_Montage.uasset'
+[2023.02.14-15.29.48:682][858]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/HitReact9BF00171406F1BE28F90EB94401BB0E2.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Anims/HitReact.uasset'
+[2023.02.14-15.29.48:699][858]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/HitReact_Montage23100A284160EC34C55EDBBFA197BEF0.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Anims/HitReact_Montage.uasset'
+[2023.02.14-15.29.48:704][858]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Ground_Grass.M_Ground_Grass needed to have new flag set bUsedWithSkeletalMesh !
+[2023.02.14-15.29.48:706][858]LogMaterial: Display: Missing cached shadermap for M_Ground_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: F79041862E4B1447440D6CE4E0D5C9C6EEEE0CE3), compiling. 
+[2023.02.14-15.29.48:775][858]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2023.02.14-15.29.48:782][858]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.14-15.29.48:782][858]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.14-15.29.48:782][858]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 39
+[2023.02.14-15.29.48:782][858]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 34
+[2023.02.14-15.29.48:782][858]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2023.02.14-15.29.48:782][858]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2023.02.14-15.29.48:782][858]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2023.02.14-15.29.48:782][858]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2023.02.14-15.29.48:782][858]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Low' priority
+[2023.02.14-15.29.48:782][858]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.14-15.29.48:825][858]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Bull_BP8170325F444A2ED69C42D4878B89806B.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Bps/Bull_BP.uasset'
+[2023.02.14-15.29.48:876][858]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Enemy_BP41D8608B4F7CE9770974E884DF6DCA78.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Bps/Enemy_BP.uasset'
+[2023.02.14-15.29.48:904][858]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Sword0F6167BB4A5A4B965B8D4CB1CDF8B7B5.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Bps/Sword.uasset'
+[2023.02.14-15.29.49:059][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2023.02.14-15.29.49:084][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.02.14-15.29.49:102][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.29.49:119][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.29.49:137][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.02.14-15.29.49:154][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.29.49:173][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.29.49:191][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.29.49:209][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.02.14-15.29.49:226][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.02.14-15.29.49:243][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.14-15.29.49:265][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.02.14-15.29.49:282][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.29.49:300][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.02.14-15.29.49:318][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.14-15.29.49:342][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.02.14-15.29.49:361][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.29.49:395][858]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/UE4_Mannequin_Skeleton389ACDAA42159C01C271F2A41DBAB6E0.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2023.02.14-15.29.49:515][858]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating SkeletalMesh /Game/Roles/Designer/Owen/Sword.Sword
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating Skeleton /Game/Roles/Designer/Owen/Sword_Skeleton.Sword_Skeleton
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating Material /Game/Roles/Designer/Owen/knightSword_Mat.knightSword_Mat
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating Texture2D /Game/Roles/Designer/Owen/knightSword.knightSword
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/SwordEvent.SwordEvent
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating AnimMontage /Game/Roles/Designer/Owen/Anims/SwordSlash_Montage.SwordSlash_Montage
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/Bps/Player_Character_attackAndSwitch_BP.Player_Character_attackAndSwitch_BP
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating AnimSequence /Game/Roles/Designer/Owen/Anims/SwordSlash.SwordSlash
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/Bps/TwonicGameMode.TwonicGameMode
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating ObjectRedirector /Game/Owen/Bps/TwonicGameMode.TwonicGameMode
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating ObjectRedirector /Game/Owen/Bps/TwonicGameMode.Default__TwonicGameMode_C
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating ObjectRedirector /Game/Owen/Bps/TwonicGameMode.TwonicGameMode_C
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/Bps/Sword.Sword
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/Bps/Enemy_BP.Enemy_BP
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/Bps/Bull_BP.Bull_BP
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating AnimMontage /Game/Roles/Designer/Owen/Anims/HitReact_Montage.HitReact_Montage
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating AnimSequence /Game/Roles/Designer/Owen/Anims/HitReact.HitReact
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating AnimMontage /Game/Roles/Designer/Owen/Anims/Death_Montage.Death_Montage
+[2023.02.14-15.29.49:515][858]LogContentValidation: Display: Validating AnimSequence /Game/Roles/Designer/Owen/Anims/Death.Death
+[2023.02.14-15.29.49:690][869]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2023.02.14-15.29.49:690][869]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.14-15.29.49:694][869]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.14-15.29.49:694][869]LogShaderCompilers: Display: Total job queries 41, among them cache hits 0 (0.00%)
+[2023.02.14-15.29.49:694][869]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.02.14-15.29.49:694][869]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.02.14-15.29.49:694][869]LogShaderCompilers: Display: ================================================
+[2023.02.14-15.29.49:833][881]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2023.02.14-15.29.49:833][881]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.14-15.29.50:406][931]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2023.02.14-15.29.50:406][931]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.14-15.29.50:589][943]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2023.02.14-15.29.50:589][943]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.14-15.29.50:787][957]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2023.02.14-15.29.50:787][957]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.14-15.29.51:189][988]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.02.14-15.29.51:189][988]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.14-15.29.51:318][997]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.14-15.29.51:318][997]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.14-15.29.51:428][  5]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.14-15.29.51:428][  5]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.14-15.29.55:204][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2023.02.14-15.29.55:297][394]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Tunic_Overworld_L1C9351B014BAA272A7CDE92918BDA5AB5.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Clayton/Level/Tunic_Overworld_L1.umap'
+[2023.02.14-15.29.55:306][394]LogFileHelpers: Saving map 'Tunic_Overworld_L1' took 0.120
+[2023.02.14-15.29.55:333][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.02.14-15.29.55:469][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.02.14-15.29.55:488][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.02.14-15.29.55:502][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.02.14-15.29.55:509][394]AssetCheck: New page: Asset Save: Tunic_Overworld_L1
+[2023.02.14-15.29.55:509][394]LogContentValidation: Display: Validating World /Game/Roles/Designer/Clayton/Level/Tunic_Overworld_L1.Tunic_Overworld_L1
+[2023.02.14-15.30.06:678][683]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.14-15.30.12:520][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.02.14-15.30.12:614][341]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Tunic_Overworld_L10BCA088A42187BA2A80A66BF50732F4C.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Clayton/Level/Tunic_Overworld_L1.umap'
+[2023.02.14-15.30.12:639][341]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Tunic_Overworld_L1_BuiltDataAF40E5494650217287A092BA81694AFE.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Clayton/Level/Tunic_Overworld_L1_BuiltData.uasset'
+[2023.02.14-15.30.12:653][341]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.14-15.30.12:653][341]LogContentValidation: Display: Validating World /Game/Roles/Designer/Clayton/Level/Tunic_Overworld_L1.Tunic_Overworld_L1
+[2023.02.14-15.30.12:653][341]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Roles/Designer/Clayton/Level/Tunic_Overworld_L1_BuiltData.Tunic_Overworld_L1_BuiltData
+[2023.02.14-15.30.14:311][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.02.14-15.30.14:380][524]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/ThirdPerson_AnimBPC6B4416E42BDB6623186DA8BC1C09CD3.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2023.02.14-15.30.14:407][524]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/M_Ground_GrassA7B3E3DD4AE92F85C637FF82FA96487F.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/StarterContent/Materials/M_Ground_Grass.uasset'
+[2023.02.14-15.30.14:419][524]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.14-15.30.14:419][524]LogContentValidation: Display: Validating AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2023.02.14-15.30.14:419][524]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Ground_Grass.M_Ground_Grass
