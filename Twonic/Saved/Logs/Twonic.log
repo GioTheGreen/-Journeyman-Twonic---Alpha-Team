@@ -1343,3 +1343,389 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.02-10.54.10:998][417]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
 [2023.03.02-10.54.11:049][418]LogPlayLevel: Display: Destroying online subsystem :Context_29
 [2023.03.02-10.54.15:292][630]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2023.03.02-10.57.50:488][404]LogSlate: Window 'LevelUP' being destroyed
+[2023.03.02-10.57.50:493][404]LogSlate: Window 'LevelUP' being destroyed
+[2023.03.02-10.57.50:503][404]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.03.02-10.57.50:503][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-10.57.50:611][404]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.03.02-10.57.50:611][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-10.57.50:622][404]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.03.02-10.57.50:622][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-10.58.07:178][708]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.02-10.58.07:197][708]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.02-10.58.09:530][984]LogContentBrowser: Attempting asset rename: NewFolder -> AI
+[2023.03.02-10.58.09:531][984]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.02-10.58.15:705][669]LogContentBrowser: Deferred new asset file creation: NewBehaviorTree
+[2023.03.02-10.58.15:718][669]LogContentBrowser: Creating deferred item: NewBehaviorTree
+[2023.03.02-10.58.21:973][417]LogContentBrowser: Attempting asset rename: NewBehaviorTree -> BT_
+[2023.03.02-10.58.21:975][417]LogContentBrowser: End creating deferred item NewBehaviorTree
+[2023.03.02-10.58.31:816][545]LogContentBrowser: Attempting asset rename: BT_ -> BT_Bull
+[2023.03.02-10.58.31:852][545]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/BT_Bull429EB1A24359F6340FC3D69642AB0757.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/AI/BT_Bull.uasset'
+[2023.03.02-10.58.31:963][545]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2023.03.02-10.58.32:032][545]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2023.03.02-10.58.32:047][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.02-10.58.32:117][545]AssetCheck: New page: Asset Save: BT_Bull
+[2023.03.02-10.58.32:117][545]LogContentValidation: Display: Validating BehaviorTree /Game/Roles/Designer/Owen/AI/BT_Bull.BT_Bull
+[2023.03.02-10.58.39:512][ 17]LogContentBrowser: Deferred new asset file creation: NewBlackboardData
+[2023.03.02-10.58.39:538][ 17]LogContentBrowser: Creating deferred item: NewBlackboardData
+[2023.03.02-10.58.57:873][967]LogContentBrowser: Attempting asset rename: NewBlackboardData -> BBD_ai
+[2023.03.02-10.58.57:873][967]LogContentBrowser: End creating deferred item NewBlackboardData
+[2023.03.02-10.59.03:898][679]LogContentBrowser: Attempting asset rename: BBD_ai -> BBD_AI
+[2023.03.02-10.59.03:942][679]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/BBD_ai0798195446458DAD6D64D49DCEED6FD9.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/AI/BBD_ai.uasset'
+[2023.03.02-10.59.03:986][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.03.02-10.59.04:056][679]AssetCheck: New page: Asset Save: BBD_AI
+[2023.03.02-10.59.04:056][679]LogContentValidation: Display: Validating BlackboardData /Game/Roles/Designer/Owen/AI/BBD_ai.BBD_AI
+[2023.03.02-10.59.06:656][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.02-10.59.07:555][985]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.02-10.59.07:622][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.03.02-10.59.07:642][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.02-10.59.07:658][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.02-10.59.13:093][606]LogContentBrowser: Deferred new asset file creation: NewBlackboardData
+[2023.03.02-10.59.13:105][606]LogContentBrowser: Creating deferred item: NewBlackboardData
+[2023.03.02-10.59.25:037][ 34]LogContentBrowser: Attempting asset rename: NewBlackboardData -> BBD_AI
+[2023.03.02-10.59.25:037][ 34]LogContentBrowser: End creating deferred item NewBlackboardData
+[2023.03.02-10.59.26:702][229]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Roles/Designer/Owen/AI/BBD_AI.BBD_AI
+[2023.03.02-10.59.39:331][429]LogSlate: Window 'BBD_AI' being destroyed
+[2023.03.02-10.59.39:338][429]LogSlate: Window 'BBD_AI' being destroyed
+[2023.03.02-10.59.46:208][223]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Roles/Designer/Owen/AI/BT_Bull.BT_Bull
+[2023.03.02-11.01.03:458][325]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/BT_Bull76DF125641F6EB6ACEFDC0A315834C84.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/AI/BT_Bull.uasset'
+[2023.03.02-11.01.03:472][325]AssetCheck: New page: Asset Save: BT_Bull
+[2023.03.02-11.01.03:473][325]LogContentValidation: Display: Validating BehaviorTree /Game/Roles/Designer/Owen/AI/BT_Bull.BT_Bull
+[2023.03.02-11.01.30:176][ 62]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Roles/Designer/Owen/AI/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2023.03.02-11.01.30:544][ 62]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Roles/Designer/Owen/AI/BTTask_BlueprintBase_New.
+[2023.03.02-11.01.56:776][774]LogContentBrowser: Attempting asset rename: BTTask_BlueprintBase_New -> BTTask_Roam_Around
+[2023.03.02-11.01.56:798][774]LogMetaData: Removing '/Game/Roles/Designer/Owen/AI/BTTask_Roam_Around.SKEL_BTTask_Roam_Around_C' ref from Metadata '/Game/Roles/Designer/Owen/AI/BTTask_BlueprintBase_New.PackageMetaData'
+[2023.03.02-11.01.56:798][774]LogMetaData: Removing '/Game/Roles/Designer/Owen/AI/BTTask_Roam_Around.BTTask_Roam_Around_C' ref from Metadata '/Game/Roles/Designer/Owen/AI/BTTask_BlueprintBase_New.PackageMetaData'
+[2023.03.02-11.01.56:816][774]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/BTTask_Roam_Around162C33754B2B4FD6A99C04829A017209.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/AI/BTTask_Roam_Around.uasset'
+[2023.03.02-11.01.56:903][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2023.03.02-11.01.56:935][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.03.02-11.01.56:954][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.03.02-11.01.57:011][774]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Roles/Designer/Owen/AI/BTTask_Roam_Around.
+[2023.03.02-11.01.57:018][774]AssetCheck: New page: Asset Save: BTTask_Roam_Around
+[2023.03.02-11.01.57:019][774]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/AI/BTTask_Roam_Around.BTTask_Roam_Around
+[2023.03.02-11.04.15:266][822]BlueprintLog: New page: Compile BTTask_Roam_Around
+[2023.03.02-11.04.15:293][822]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2023.03.02-11.04.15:888][876]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/BTTask_Roam_AroundDBF8E0A44C572D3DB5BA08BEC3BF1B59.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/AI/BTTask_Roam_Around.uasset'
+[2023.03.02-11.04.15:902][876]AssetCheck: New page: Asset Save: BTTask_Roam_Around
+[2023.03.02-11.04.15:902][876]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/AI/BTTask_Roam_Around.BTTask_Roam_Around
+[2023.03.02-11.04.37:920][732]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/BT_Bull944428E04966194DA1D191ADB58755C1.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/AI/BT_Bull.uasset'
+[2023.03.02-11.04.37:934][732]AssetCheck: New page: Asset Save: BT_Bull
+[2023.03.02-11.04.37:934][732]LogContentValidation: Display: Validating BehaviorTree /Game/Roles/Designer/Owen/AI/BT_Bull.BT_Bull
+[2023.03.02-11.04.58:153][810]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/BT_Bull075B26F04461860214B8CA96CC273FB0.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/AI/BT_Bull.uasset'
+[2023.03.02-11.04.58:167][810]AssetCheck: New page: Asset Save: BT_Bull
+[2023.03.02-11.04.58:167][810]LogContentValidation: Display: Validating BehaviorTree /Game/Roles/Designer/Owen/AI/BT_Bull.BT_Bull
+[2023.03.02-11.05.20:700][435]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Roles/Designer/Owen/Bps/Twonic_Player_BP.Twonic_Player_BP
+[2023.03.02-11.05.24:812][553]LogRenderer: Reallocating scene render targets to support 1912x1020 Format 10 NumSamples 1 (Frame:1).
+[2023.03.02-11.05.28:632][778]LogMaterial: Display: Missing cached shadermap for M_Ground_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: F79041862E4B1447440D6CE4E0D5C9C6EEEE0CE3), compiling. 
+[2023.03.02-11.05.28:702][778]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2023.03.02-11.05.28:747][778]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 41
+[2023.03.02-11.05.28:747][778]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 35
+[2023.03.02-11.05.28:747][778]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2023.03.02-11.05.28:747][778]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2023.03.02-11.05.28:747][778]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2023.03.02-11.05.28:747][778]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2023.03.02-11.05.28:747][778]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2023.03.02-11.05.28:747][778]LogShaderCompilers: Display: Started 41 'Local' shader compile jobs with 'Low' priority
+[2023.03.02-11.05.28:758][778]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Roles/Designer/Owen/Bps/Bull_BP.Bull_BP
+[2023.03.02-11.05.31:321][836]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.02-11.05.31:321][836]LogShaderCompilers: Display: Total job queries 41, among them cache hits 0 (0.00%)
+[2023.03.02-11.05.31:321][836]LogShaderCompilers: Display: Tracking 6 distinct input hashes that result in 5 distinct outputs (83.33%)
+[2023.03.02-11.05.31:321][836]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.03.02-11.05.31:321][836]LogShaderCompilers: Display: ================================================
+[2023.03.02-11.05.31:404][838]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.03.02-11.05.31:404][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-11.06.04:991][387]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.02-11.06.15:639][387]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.03.02-11.06.15:645][387]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.03.02-11.06.15:660][387]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.03.02-11.06.18:869][439]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2023.03.02-11.06.18:873][439]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Roles/Designer/Mel/Maps/Level_Mechanics_Test_Map' took 0.051
+[2023.03.02-11.06.18:875][439]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Roles/Designer/Owen/AI/BBD_AI] ([1] browsable assets)...
+[2023.03.02-11.06.18:875][439]OBJ SavePackage: Finished generating thumbnails for package [/Game/Roles/Designer/Owen/AI/BBD_AI]
+[2023.03.02-11.06.18:876][439]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/BBD_AI_Auto15F7B60304DD49C7B8BE4A69ADF5709DB.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Autosaves/Game/Roles/Designer/Owen/AI/BBD_AI_Auto1.uasset'
+[2023.03.02-11.06.18:878][439]LogFileHelpers: Auto-saving content packages took 0.005
+[2023.03.02-11.06.27:584][921]LogContentBrowser: Attempting asset rename: NewBlueprint -> AI_Controller
+[2023.03.02-11.06.27:589][921]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Roles/Designer/Owen/Bps/AI_Controller.
+[2023.03.02-11.06.27:590][921]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.03.02-11.06.29:608][ 88]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Roles/Designer/Owen/Bps/AI_Controller.AI_Controller
+[2023.03.02-11.06.58:457][343]BlueprintLog: New page: Compile AI_Controller
+[2023.03.02-11.06.58:499][343]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2023.03.02-11.06.59:754][444]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/AI_Controller3EB2ABF349B26DCAB699FEADF1AC9B97.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Bps/AI_Controller.uasset'
+[2023.03.02-11.06.59:764][444]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Roles/Designer/Owen/Bps/AI_Controller.
+[2023.03.02-11.06.59:769][444]AssetCheck: New page: Asset Save: AI_Controller
+[2023.03.02-11.06.59:769][444]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/Bps/AI_Controller.AI_Controller
+[2023.03.02-11.07.44:376][731]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.02-11.07.44:399][731]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.02-11.07.48:867][107]BlueprintLog: New page: Compile Bull_BP
+[2023.03.02-11.07.48:925][107]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2023.03.02-11.08.15:718][811]BlueprintLog: New page: Compile Bull_BP
+[2023.03.02-11.08.15:778][811]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2023.03.02-11.08.16:242][839]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Bull_BP7C0461D24A1B92E6EAF12AB73F9E93BE.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Bps/Bull_BP.uasset'
+[2023.03.02-11.08.16:259][839]AssetCheck: New page: Asset Save: Bull_BP
+[2023.03.02-11.08.16:259][839]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/Bps/Bull_BP.Bull_BP
+[2023.03.02-11.09.00:245][446]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.03.02-11.09.00:260][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.02-11.09.00:260][446]PIE: New page: PIE session: Level_Mechanics_Test_Map (2 Mar 2023, 11:09:00)
+[2023.03.02-11.09.00:260][446]LogPlayLevel: Creating play world package: /Game/Roles/Designer/Mel/Maps/UEDPIE_0_Level_Mechanics_Test_Map
+[2023.03.02-11.09.00:267][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007257s)
+[2023.03.02-11.09.00:268][446]LogAIModule: Creating AISystem for world Level_Mechanics_Test_Map
+[2023.03.02-11.09.00:269][446]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2023.03.02-11.09.00:269][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Roles/Designer/Mel/Maps/Level_Mechanics_Test_Map.Level_Mechanics_Test_Map to /Game/Roles/Designer/Mel/Maps/UEDPIE_0_Level_Mechanics_Test_Map.Level_Mechanics_Test_Map (0.008597s)
+[2023.03.02-11.09.00:298][446]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2023.03.02-11.09.00:300][446]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.03.02-11.09.00:300][446]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.02-11.09.00:300][446]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.02-11.09.00:300][446]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.02-11.09.00:300][446]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.02-11.09.00:300][446]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.02-11.09.00:301][446]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.02-11.09.00:301][446]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.02-11.09.00:301][446]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.02-11.09.00:301][446]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.02-11.09.00:301][446]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.02-11.09.00:301][446]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.02-11.09.00:301][446]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.02-11.09.00:305][446]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.02-11.09.00:305][446]LogAudioMixer: Display: 1: FrontRight
+[2023.03.02-11.09.00:323][446]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.03.02-11.09.00:323][446]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.02-11.09.00:323][446]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.02-11.09.00:323][446]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.02-11.09.00:323][446]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.02-11.09.00:323][446]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.02-11.09.00:324][446]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.02-11.09.00:325][446]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.02-11.09.00:325][446]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.02-11.09.00:325][446]LogInit: FAudioDevice initialized.
+[2023.03.02-11.09.00:325][446]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level_Mechanics_Test_Map'.
+[2023.03.02-11.09.00:368][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-11.09.00:368][446]LogLoad: Game class is 'TwonicGameMode_C'
+[2023.03.02-11.09.00:370][446]LogWorld: Bringing World /Game/Roles/Designer/Mel/Maps/UEDPIE_0_Level_Mechanics_Test_Map.Level_Mechanics_Test_Map up for play (max tick rate 0) at 2023.03.02-11.09.00
+[2023.03.02-11.09.00:371][446]LogWorld: Bringing up level for play took: 0.002698
+[2023.03.02-11.09.00:371][446]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2023.03.02-11.09.00:380][446]PIE: Server logged in
+[2023.03.02-11.09.00:383][446]PIE: Play in editor total start time 0.129 seconds.
+[2023.03.02-11.09.02:239][659]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01'.
+[2023.03.02-11.09.03:651][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-11.09.03:651][824]LogWorld: BeginTearingDown for /Game/Roles/Designer/Mel/Maps/UEDPIE_0_Level_Mechanics_Test_Map
+[2023.03.02-11.09.03:652][824]LogSlate: Window 'Twonic Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.03.02-11.09.03:659][824]LogWorld: UWorld::CleanupWorld for Level_Mechanics_Test_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.02-11.09.03:660][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-11.09.03:669][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.02-11.09.03:703][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-11.09.03:727][824]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.02-11.09.03:728][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.02-11.09.03:729][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.02-11.09.03:737][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.03.02-11.09.03:779][825]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.03.02-11.09.20:249][683]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.03.02-11.09.20:262][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.02-11.09.20:262][683]PIE: New page: PIE session: Level_Mechanics_Test_Map (2 Mar 2023, 11:09:20)
+[2023.03.02-11.09.20:263][683]LogPlayLevel: Creating play world package: /Game/Roles/Designer/Mel/Maps/UEDPIE_0_Level_Mechanics_Test_Map
+[2023.03.02-11.09.20:272][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008883s)
+[2023.03.02-11.09.20:273][683]LogAIModule: Creating AISystem for world Level_Mechanics_Test_Map
+[2023.03.02-11.09.20:273][683]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2023.03.02-11.09.20:273][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Roles/Designer/Mel/Maps/Level_Mechanics_Test_Map.Level_Mechanics_Test_Map to /Game/Roles/Designer/Mel/Maps/UEDPIE_0_Level_Mechanics_Test_Map.Level_Mechanics_Test_Map (0.010091s)
+[2023.03.02-11.09.20:300][683]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.03.02-11.09.20:302][683]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.03.02-11.09.20:302][683]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.02-11.09.20:302][683]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.02-11.09.20:302][683]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.02-11.09.20:302][683]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.02-11.09.20:302][683]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.02-11.09.20:302][683]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.02-11.09.20:302][683]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.02-11.09.20:302][683]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.02-11.09.20:303][683]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.02-11.09.20:303][683]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.02-11.09.20:303][683]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.02-11.09.20:303][683]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.02-11.09.20:306][683]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.02-11.09.20:306][683]LogAudioMixer: Display: 1: FrontRight
+[2023.03.02-11.09.20:324][683]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.03.02-11.09.20:324][683]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.02-11.09.20:324][683]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.02-11.09.20:324][683]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.02-11.09.20:325][683]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.02-11.09.20:325][683]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.02-11.09.20:325][683]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.02-11.09.20:326][683]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.02-11.09.20:326][683]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.02-11.09.20:326][683]LogInit: FAudioDevice initialized.
+[2023.03.02-11.09.20:326][683]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_Mechanics_Test_Map'.
+[2023.03.02-11.09.20:367][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-11.09.20:367][683]LogLoad: Game class is 'TwonicGameMode_C'
+[2023.03.02-11.09.20:370][683]LogWorld: Bringing World /Game/Roles/Designer/Mel/Maps/UEDPIE_0_Level_Mechanics_Test_Map.Level_Mechanics_Test_Map up for play (max tick rate 0) at 2023.03.02-11.09.20
+[2023.03.02-11.09.20:371][683]LogWorld: Bringing up level for play took: 0.002476
+[2023.03.02-11.09.20:371][683]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2023.03.02-11.09.20:379][683]PIE: Server logged in
+[2023.03.02-11.09.20:381][683]PIE: Play in editor total start time 0.124 seconds.
+[2023.03.02-11.09.22:247][888]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01'.
+[2023.03.02-11.09.26:221][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-11.09.26:221][361]LogWorld: BeginTearingDown for /Game/Roles/Designer/Mel/Maps/UEDPIE_0_Level_Mechanics_Test_Map
+[2023.03.02-11.09.26:221][361]LogSlate: Window 'Twonic Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.03.02-11.09.26:229][361]LogWorld: UWorld::CleanupWorld for Level_Mechanics_Test_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.02-11.09.26:230][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-11.09.26:239][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.02-11.09.26:257][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-11.09.26:282][361]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.02-11.09.26:282][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.02-11.09.26:284][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.02-11.09.26:292][361]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.03.02-11.09.26:324][362]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.03.02-11.09.33:875][615]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2023.03.02-11.09.33:922][615]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Level_Mechanics_Test_Map842083B6441DC4CC0B27C1AE351A09F6.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Mel/Maps/Level_Mechanics_Test_Map.umap'
+[2023.03.02-11.09.33:964][615]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Level_Mechanics_Test_Map_BuiltDaF0AD227F4C4AA3CB158EFC87DDCBB1E4.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Mel/Maps/Level_Mechanics_Test_Map_BuiltData.uasset'
+[2023.03.02-11.09.33:983][615]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.02-11.09.33:983][615]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Roles/Designer/Mel/Maps/Level_Mechanics_Test_Map_BuiltData.Level_Mechanics_Test_Map_BuiltData
+[2023.03.02-11.09.33:983][615]LogContentValidation: Display: Validating World /Game/Roles/Designer/Mel/Maps/Level_Mechanics_Test_Map.Level_Mechanics_Test_Map
+[2023.03.02-11.10.31:070][773]LogSlate: Window 'Pick Skeleton' being destroyed
+[2023.03.02-11.10.31:077][773]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2023.03.02-11.10.31:091][773]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2023.03.02-11.10.31:908][839]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> NewBlendSpace1D
+[2023.03.02-11.10.31:909][839]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2023.03.02-11.10.50:288][ 35]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> AI_Bull_BlendSpace
+[2023.03.02-11.10.50:338][ 35]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/AI_Bull_BlendSpace5D99CC6240D779637C6FEEB65A5D491A.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Anims/AI_Bull_BlendSpace.uasset'
+[2023.03.02-11.10.50:422][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2023.03.02-11.10.50:457][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2023.03.02-11.10.50:481][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.03.02-11.10.50:547][ 35]AssetCheck: New page: Asset Save: AI_Bull_BlendSpace
+[2023.03.02-11.10.50:547][ 35]LogContentValidation: Display: Validating BlendSpace1D /Game/Roles/Designer/Owen/Anims/AI_Bull_BlendSpace.AI_Bull_BlendSpace
+[2023.03.02-11.10.54:528][132]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Roles/Designer/Owen/Anims/AI_Bull_BlendSpace.AI_Bull_BlendSpace
+[2023.03.02-11.10.54:555][132]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2023.03.02-11.10.54:562][132]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.03.02-11.10.54:667][132]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.03.02-11.10.54:761][132]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.02-11.10.54:766][132]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2023.03.02-11.10.55:388][132]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.03.02-11.12.36:669][227]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/AI_Bull_BlendSpace269BE7C54F1CCC2566402D802F8A68A0.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Anims/AI_Bull_BlendSpace.uasset'
+[2023.03.02-11.12.36:686][227]AssetCheck: New page: Asset Save: AI_Bull_BlendSpace
+[2023.03.02-11.12.36:686][227]LogContentValidation: Display: Validating BlendSpace1D /Game/Roles/Designer/Owen/Anims/AI_Bull_BlendSpace.AI_Bull_BlendSpace
+[2023.03.02-11.12.58:796][920]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/AI_Bull_BlendSpaceC30A6DCB4FD92F7C331D618913BF6A62.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Anims/AI_Bull_BlendSpace.uasset'
+[2023.03.02-11.12.58:812][920]AssetCheck: New page: Asset Save: AI_Bull_BlendSpace
+[2023.03.02-11.12.58:813][920]LogContentValidation: Display: Validating BlendSpace1D /Game/Roles/Designer/Owen/Anims/AI_Bull_BlendSpace.AI_Bull_BlendSpace
+[2023.03.02-11.13.45:104][554]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.02-11.13.45:107][554]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.02-11.13.45:132][554]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2023.03.02-11.13.48:146][554]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2023.03.02-11.13.48:153][554]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2023.03.02-11.13.48:169][554]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2023.03.02-11.13.48:722][579]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> NewAnimBlueprint
+[2023.03.02-11.13.48:728][579]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Roles/Designer/Owen/Anims/NewAnimBlueprint.
+[2023.03.02-11.13.48:729][579]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2023.03.02-11.13.49:555][645]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Roles/Designer/Owen/Anims/NewAnimBlueprint.NewAnimBlueprint
+[2023.03.02-11.13.49:561][645]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.02-11.13.59:419][389]LogContentBrowser: Attempting asset rename: AI_Bull_BlendSpace -> AI_Bull_BlendSpace
+[2023.03.02-11.14.02:517][638]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> NewAnimBlueprint
+[2023.03.02-11.14.11:395][385]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> AI_Bull_AnimBlueprint
+[2023.03.02-11.14.11:413][385]LogMetaData: Removing '/Game/Roles/Designer/Owen/Anims/AI_Bull_AnimBlueprint.AI_Bull_AnimBlueprint:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Roles/Designer/Owen/Anims/NewAnimBlueprint.PackageMetaData'
+[2023.03.02-11.14.11:413][385]LogMetaData: Removing '/Game/Roles/Designer/Owen/Anims/AI_Bull_AnimBlueprint.SKEL_AI_Bull_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/Roles/Designer/Owen/Anims/NewAnimBlueprint.PackageMetaData'
+[2023.03.02-11.14.11:413][385]LogMetaData: Removing '/Game/Roles/Designer/Owen/Anims/AI_Bull_AnimBlueprint.SKEL_AI_Bull_AnimBlueprint_C' ref from Metadata '/Game/Roles/Designer/Owen/Anims/NewAnimBlueprint.PackageMetaData'
+[2023.03.02-11.14.11:413][385]LogMetaData: Removing '/Game/Roles/Designer/Owen/Anims/AI_Bull_AnimBlueprint.AI_Bull_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/Roles/Designer/Owen/Anims/NewAnimBlueprint.PackageMetaData'
+[2023.03.02-11.14.11:413][385]LogMetaData: Removing '/Game/Roles/Designer/Owen/Anims/AI_Bull_AnimBlueprint.AI_Bull_AnimBlueprint_C' ref from Metadata '/Game/Roles/Designer/Owen/Anims/NewAnimBlueprint.PackageMetaData'
+[2023.03.02-11.14.11:413][385]LogMetaData: Removing '/Game/Roles/Designer/Owen/Anims/AI_Bull_AnimBlueprint.AI_Bull_AnimBlueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Roles/Designer/Owen/Anims/NewAnimBlueprint.PackageMetaData'
+[2023.03.02-11.14.11:413][385]LogMetaData: Removing '/Game/Roles/Designer/Owen/Anims/AI_Bull_AnimBlueprint.AI_Bull_AnimBlueprint:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Roles/Designer/Owen/Anims/NewAnimBlueprint.PackageMetaData'
+[2023.03.02-11.14.11:452][385]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/AI_Bull_AnimBlueprint120CF8624EB7420BA09A08A315AD0E4D.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Anims/AI_Bull_AnimBlueprint.uasset'
+[2023.03.02-11.14.11:580][385]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2023.03.02-11.14.11:628][385]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2023.03.02-11.14.11:661][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.03.02-11.14.11:846][385]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Roles/Designer/Owen/Anims/AI_Bull_AnimBlueprint.
+[2023.03.02-11.14.11:854][385]AssetCheck: New page: Asset Save: AI_Bull_AnimBlueprint
+[2023.03.02-11.14.11:854][385]LogContentValidation: Display: Validating AnimBlueprint /Game/Roles/Designer/Owen/Anims/AI_Bull_AnimBlueprint.AI_Bull_AnimBlueprint
+[2023.03.02-11.16.27:084][613]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.03.02-11.16.31:095][891]BlueprintLog: New page: Compile AI_Bull_AnimBlueprint
+[2023.03.02-11.16.31:153][891]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2023.03.02-11.16.41:237][610]BlueprintLog: New page: Compile AI_Bull_AnimBlueprint
+[2023.03.02-11.16.41:295][610]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2023.03.02-11.16.42:732][689]BlueprintLog: New page: Compile AI_Bull_AnimBlueprint
+[2023.03.02-11.16.42:788][689]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2023.03.02-11.16.43:294][719]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/AI_Bull_AnimBlueprint60D7E64D4D157A3EA568148D8E932CEC.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Anims/AI_Bull_AnimBlueprint.uasset'
+[2023.03.02-11.16.43:311][719]AssetCheck: New page: Asset Save: AI_Bull_AnimBlueprint
+[2023.03.02-11.16.43:311][719]LogContentValidation: Display: Validating AnimBlueprint /Game/Roles/Designer/Owen/Anims/AI_Bull_AnimBlueprint.AI_Bull_AnimBlueprint
+[2023.03.02-11.16.56:494][369]BlueprintLog: New page: Compile AI_Bull_AnimBlueprint
+[2023.03.02-11.16.56:550][369]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2023.03.02-11.17.19:462][153]BlueprintLog: New page: Compile AI_Bull_AnimBlueprint
+[2023.03.02-11.17.19:518][153]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2023.03.02-11.17.24:377][208]BlueprintLog: New page: Compile AI_Bull_AnimBlueprint
+[2023.03.02-11.17.24:433][208]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2023.03.02-11.19.34:754][102]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2023.03.02-11.19.34:757][102]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Roles/Designer/Mel/Maps/Level_Mechanics_Test_Map' took 0.043
+[2023.03.02-11.19.34:758][102]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Roles/Designer/Owen/Anims/AI_Bull_AnimBlueprint] ([2] browsable assets)...
+[2023.03.02-11.19.34:777][102]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Roles/Designer/Owen/Anims/AI_Bull_AnimBlueprint.AI_Bull_AnimBlueprint]
+[2023.03.02-11.19.34:777][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Roles/Designer/Owen/Anims/AI_Bull_AnimBlueprint]
+[2023.03.02-11.19.34:794][102]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/AI_Bull_AnimBlueprint_Auto21266B91543D484AEAEB62BA4D5E9E0BA.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Autosaves/Game/Roles/Designer/Owen/Anims/AI_Bull_AnimBlueprint_Auto2.uasset'
+[2023.03.02-11.19.34:796][102]LogFileHelpers: Auto-saving content packages took 0.038
+[2023.03.02-11.19.57:092][169]BlueprintLog: New page: Compile AI_Bull_AnimBlueprint
+[2023.03.02-11.19.57:145][169]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2023.03.02-11.20.15:516][435]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.02-11.20.15:538][435]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.02-11.20.19:809][760]BlueprintLog: New page: Compile Bull_BP
+[2023.03.02-11.20.19:890][760]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2023.03.02-11.20.20:230][783]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Bull_BP4ED5A5104DC3EAE9BE5A26A47642AFF9.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Bps/Bull_BP.uasset'
+[2023.03.02-11.20.20:247][783]AssetCheck: New page: Asset Save: Bull_BP
+[2023.03.02-11.20.20:247][783]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/Bps/Bull_BP.Bull_BP
+[2023.03.02-11.20.45:581][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2023.03.02-11.20.45:626][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.03.02-11.20.45:671][ 54]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Level_Mechanics_Test_Map3E3E592D41C30CE0FA2AE3851F709E42.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Mel/Maps/Level_Mechanics_Test_Map.umap'
+[2023.03.02-11.20.45:686][ 54]LogFileHelpers: Saving map 'Level_Mechanics_Test_Map' took 0.093
+[2023.03.02-11.20.45:688][ 54]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/BBD_AI21AF3B274A98A8A4053C84A97B2BEC58.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/AI/BBD_AI.uasset'
+[2023.03.02-11.20.45:717][ 54]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/AI_Bull_AnimBlueprint2046D8A44E77A0C7E14F88853030A12C.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Anims/AI_Bull_AnimBlueprint.uasset'
+[2023.03.02-11.20.45:732][ 54]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.02-11.20.45:732][ 54]LogContentValidation: Display: Validating World /Game/Roles/Designer/Mel/Maps/Level_Mechanics_Test_Map.Level_Mechanics_Test_Map
+[2023.03.02-11.20.45:732][ 54]LogContentValidation: Display: Validating BlackboardData /Game/Roles/Designer/Owen/AI/BBD_AI.BBD_AI
+[2023.03.02-11.20.45:732][ 54]LogContentValidation: Display: Validating AnimBlueprint /Game/Roles/Designer/Owen/Anims/AI_Bull_AnimBlueprint.AI_Bull_AnimBlueprint
+[2023.03.02-11.20.46:538][112]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.03.02-11.20.46:552][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.02-11.20.46:552][112]PIE: New page: PIE session: Level_Mechanics_Test_Map (2 Mar 2023, 11:20:46)
+[2023.03.02-11.20.46:552][112]LogPlayLevel: Creating play world package: /Game/Roles/Designer/Mel/Maps/UEDPIE_0_Level_Mechanics_Test_Map
+[2023.03.02-11.20.46:560][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008302s)
+[2023.03.02-11.20.46:561][112]LogAIModule: Creating AISystem for world Level_Mechanics_Test_Map
+[2023.03.02-11.20.46:562][112]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2023.03.02-11.20.46:562][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Roles/Designer/Mel/Maps/Level_Mechanics_Test_Map.Level_Mechanics_Test_Map to /Game/Roles/Designer/Mel/Maps/UEDPIE_0_Level_Mechanics_Test_Map.Level_Mechanics_Test_Map (0.009669s)
+[2023.03.02-11.20.46:599][112]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2023.03.02-11.20.46:601][112]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.03.02-11.20.46:601][112]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.02-11.20.46:601][112]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.02-11.20.46:601][112]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.02-11.20.46:601][112]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.02-11.20.46:601][112]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.02-11.20.46:601][112]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.02-11.20.46:601][112]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.02-11.20.46:601][112]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.02-11.20.46:601][112]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.02-11.20.46:601][112]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.02-11.20.46:601][112]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.02-11.20.46:601][112]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.02-11.20.46:605][112]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.02-11.20.46:605][112]LogAudioMixer: Display: 1: FrontRight
+[2023.03.02-11.20.46:624][112]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.03.02-11.20.46:624][112]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.02-11.20.46:624][112]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.02-11.20.46:624][112]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.02-11.20.46:624][112]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.02-11.20.46:624][112]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.02-11.20.46:624][112]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.02-11.20.46:625][112]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.02-11.20.46:625][112]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.02-11.20.46:625][112]LogInit: FAudioDevice initialized.
+[2023.03.02-11.20.46:625][112]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level_Mechanics_Test_Map'.
+[2023.03.02-11.20.46:680][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-11.20.46:680][112]LogLoad: Game class is 'TwonicGameMode_C'
+[2023.03.02-11.20.46:683][112]LogWorld: Bringing World /Game/Roles/Designer/Mel/Maps/UEDPIE_0_Level_Mechanics_Test_Map.Level_Mechanics_Test_Map up for play (max tick rate 0) at 2023.03.02-11.20.46
+[2023.03.02-11.20.46:684][112]LogWorld: Bringing up level for play took: 0.003030
+[2023.03.02-11.20.46:684][112]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2023.03.02-11.20.46:693][112]PIE: Server logged in
+[2023.03.02-11.20.46:695][112]PIE: Play in editor total start time 0.148 seconds.
+[2023.03.02-11.20.48:541][292]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01'.
+[2023.03.02-11.20.53:343][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-11.20.53:343][774]LogWorld: BeginTearingDown for /Game/Roles/Designer/Mel/Maps/UEDPIE_0_Level_Mechanics_Test_Map
+[2023.03.02-11.20.53:343][774]LogSlate: Window 'Twonic Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.03.02-11.20.53:351][774]LogWorld: UWorld::CleanupWorld for Level_Mechanics_Test_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.02-11.20.53:352][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-11.20.53:363][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.02-11.20.53:383][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-11.20.53:415][774]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.02-11.20.53:415][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.02-11.20.53:417][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.02-11.20.53:426][774]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2023.03.02-11.20.53:471][775]LogPlayLevel: Display: Destroying online subsystem :Context_49
