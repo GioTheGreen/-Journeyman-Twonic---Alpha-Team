@@ -1729,3 +1729,76 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.02-11.20.53:417][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2023.03.02-11.20.53:426][774]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
 [2023.03.02-11.20.53:471][775]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.03.02-11.28.46:893][313]BlueprintLog: New page: Compile Bull_BP
+[2023.03.02-11.28.46:973][313]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2023.03.02-11.28.47:466][342]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Bull_BPA9C77429419EC7FC10DAF9B21701C114.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Bps/Bull_BP.uasset'
+[2023.03.02-11.28.47:482][342]AssetCheck: New page: Asset Save: Bull_BP
+[2023.03.02-11.28.47:482][342]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/Bps/Bull_BP.Bull_BP
+[2023.03.02-11.29.11:017][792]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.02-11.29.11:040][792]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.02-11.29.19:887][791]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.02-11.29.19:887][791]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Roles/Designer/Owen/AI/BTTask_Roam_Around_New.BTTask_Roam_Around_New
+[2023.03.02-11.29.20:198][791]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Roles/Designer/Owen/AI/BTTask_Roam_Around_New.
+[2023.03.02-11.29.38:567][497]LogContentBrowser: Attempting asset rename: BTTask_Roam_Around_New -> BTTask_Chase_Player
+[2023.03.02-11.29.38:593][497]LogMetaData: Removing '/Game/Roles/Designer/Owen/AI/BTTask_Chase_Player.SKEL_BTTask_Chase_Player_C' ref from Metadata '/Game/Roles/Designer/Owen/AI/BTTask_Roam_Around_New.PackageMetaData'
+[2023.03.02-11.29.38:593][497]LogMetaData: Removing '/Game/Roles/Designer/Owen/AI/BTTask_Chase_Player.BTTask_Chase_Player_C' ref from Metadata '/Game/Roles/Designer/Owen/AI/BTTask_Roam_Around_New.PackageMetaData'
+[2023.03.02-11.29.38:613][497]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/BTTask_Chase_Player040A481445B02368B4ACA7BC7900BCC6.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/AI/BTTask_Chase_Player.uasset'
+[2023.03.02-11.29.38:717][497]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2023.03.02-11.29.38:762][497]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2023.03.02-11.29.38:798][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.03.02-11.29.38:983][497]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Roles/Designer/Owen/AI/BTTask_Chase_Player.
+[2023.03.02-11.29.38:991][497]AssetCheck: New page: Asset Save: BTTask_Chase_Player
+[2023.03.02-11.29.38:991][497]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/AI/BTTask_Chase_Player.BTTask_Chase_Player
+[2023.03.02-11.30.25:048][960]BlueprintLog: New page: Compile BTTask_Chase_Player
+[2023.03.02-11.30.25:092][960]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2023.03.02-11.30.25:517][995]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/BTTask_Chase_Player6A1D6EB7484875B2E6137CBB53FFC714.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/AI/BTTask_Chase_Player.uasset'
+[2023.03.02-11.30.25:533][995]AssetCheck: New page: Asset Save: BTTask_Chase_Player
+[2023.03.02-11.30.25:533][995]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/AI/BTTask_Chase_Player.BTTask_Chase_Player
+[2023.03.02-11.30.35:136][414]BlueprintLog: New page: Compile BTTask_Chase_Player
+[2023.03.02-11.30.35:180][414]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2023.03.02-11.30.35:696][459]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/BTTask_Chase_PlayerC3467CEE42F548BAEC71F289CD6DF32D.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/AI/BTTask_Chase_Player.uasset'
+[2023.03.02-11.30.35:713][459]AssetCheck: New page: Asset Save: BTTask_Chase_Player
+[2023.03.02-11.30.35:713][459]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/AI/BTTask_Chase_Player.BTTask_Chase_Player
+[2023.03.02-11.32.27:412][ 34]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.02-11.32.27:435][ 34]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.02-11.32.45:075][337]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2023.03.02-11.32.45:137][337]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2023.03.02-11.32.45:181][337]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Level_Mechanics_Test_Map6D104A624409B83B9D15DF9D54BE474F.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Mel/Maps/Level_Mechanics_Test_Map.umap'
+[2023.03.02-11.32.45:196][337]LogFileHelpers: Saving map 'Level_Mechanics_Test_Map' took 0.098
+[2023.03.02-11.32.45:201][337]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/BT_Bull1CB4CEEB4B80205527D89FB61EA824DC.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/AI/BT_Bull.uasset'
+[2023.03.02-11.32.45:204][337]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/BBD_AI86ACFD3E482121ABCEBDBE925A780608.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/AI/BBD_AI.uasset'
+[2023.03.02-11.32.45:221][337]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.02-11.32.45:221][337]LogContentValidation: Display: Validating World /Game/Roles/Designer/Mel/Maps/Level_Mechanics_Test_Map.Level_Mechanics_Test_Map
+[2023.03.02-11.32.45:221][337]LogContentValidation: Display: Validating BlackboardData /Game/Roles/Designer/Owen/AI/BBD_AI.BBD_AI
+[2023.03.02-11.32.45:222][337]LogContentValidation: Display: Validating BehaviorTree /Game/Roles/Designer/Owen/AI/BT_Bull.BT_Bull
+[2023.03.02-11.33.01:471][215]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/BT_Bull3FCA9637448162038C2009805FC0010C.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/AI/BT_Bull.uasset'
+[2023.03.02-11.33.01:488][215]AssetCheck: New page: Asset Save: BT_Bull
+[2023.03.02-11.33.01:488][215]LogContentValidation: Display: Validating BehaviorTree /Game/Roles/Designer/Owen/AI/BT_Bull.BT_Bull
+[2023.03.02-11.33.35:893][149]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/BT_Bull5EA1C3D54D99FF2E5AFDEAA778137718.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/AI/BT_Bull.uasset'
+[2023.03.02-11.33.35:909][149]AssetCheck: New page: Asset Save: BT_Bull
+[2023.03.02-11.33.35:909][149]LogContentValidation: Display: Validating BehaviorTree /Game/Roles/Designer/Owen/AI/BT_Bull.BT_Bull
+[2023.03.02-11.34.04:297][411]BlueprintLog: New page: Compile Bull_BP
+[2023.03.02-11.34.04:368][411]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2023.03.02-11.34.05:096][465]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Bull_BP142102CF41F10766A0F3B982E4A2D22B.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Bps/Bull_BP.uasset'
+[2023.03.02-11.34.05:113][465]AssetCheck: New page: Asset Save: Bull_BP
+[2023.03.02-11.34.05:113][465]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/Bps/Bull_BP.Bull_BP
+[2023.03.02-11.34.31:385][880]BlueprintLog: New page: Compile Bull_BP
+[2023.03.02-11.34.31:457][880]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2023.03.02-11.35.12:063][661]BlueprintLog: New page: Compile Bull_BP
+[2023.03.02-11.35.12:140][661]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2023.03.02-11.35.12:576][687]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Bull_BP7F12CF254DEC9A519D7905AB2C059D98.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Bps/Bull_BP.uasset'
+[2023.03.02-11.35.12:593][687]AssetCheck: New page: Asset Save: Bull_BP
+[2023.03.02-11.35.12:593][687]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/Bps/Bull_BP.Bull_BP
+[2023.03.02-11.40.20:426][631]BlueprintLog: New page: Compile Bull_BP
+[2023.03.02-11.40.20:506][631]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2023.03.02-11.40.21:047][669]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Bull_BPA8EC873147A197E5CE576284DCAD10A2.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Bps/Bull_BP.uasset'
+[2023.03.02-11.40.21:064][669]AssetCheck: New page: Asset Save: Bull_BP
+[2023.03.02-11.40.21:064][669]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/Bps/Bull_BP.Bull_BP
+[2023.03.02-11.40.40:286][757]BlueprintLog: New page: Compile Bull_BP
+[2023.03.02-11.40.40:360][757]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2023.03.02-11.40.40:864][792]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Bull_BPCCA1A2494927B0D2BC57059A101B827D.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Bps/Bull_BP.uasset'
+[2023.03.02-11.40.40:880][792]AssetCheck: New page: Asset Save: Bull_BP
+[2023.03.02-11.40.40:880][792]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/Bps/Bull_BP.Bull_BP
+[2023.03.02-11.40.59:265][829]LogSavePackage: Moving '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Bull_BPF36768134191F7BE43A1D58FB59484C9.tmp' to '../../../../../../Users/B1078130/Documents/GitHub/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Owen/Bps/Bull_BP.uasset'
+[2023.03.02-11.40.59:283][829]AssetCheck: New page: Asset Save: Bull_BP
+[2023.03.02-11.40.59:284][829]LogContentValidation: Display: Validating Blueprint /Game/Roles/Designer/Owen/Bps/Bull_BP.Bull_BP
