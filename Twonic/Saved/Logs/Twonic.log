@@ -1193,3 +1193,70 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.14-15.25.40:782][ 61]LogFileHelpers: Saving map 'MP_EdusLevel1' took 0.740
 [2023.03.14-15.25.40:812][ 61]AssetCheck: New page: Asset Save: MP_EdusLevel1
 [2023.03.14-15.25.40:812][ 61]LogContentValidation: Display: Validating World /Game/Roles/Designer/Clayton/Level/MP_EdusLevel1.MP_EdusLevel1
+[2023.03.14-15.27.00:149][675]LogMaterial: Display: Missing cached shadermap for Custom_Draw_Depth in PCD3D_SM5, Default, SM5 (DDC key hash: D4014C86F05E23304DD0966D4719BA2ADC502918), compiling. 
+[2023.03.14-15.27.00:160][675]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Low' priority
+[2023.03.14-15.27.00:193][676]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.03.14-15.27.00:193][676]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.14-15.27.00:193][676]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2023.03.14-15.27.00:193][676]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2023.03.14-15.27.00:193][676]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.03.14-15.27.00:193][676]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2023.03.14-15.27.00:193][676]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.03.14-15.27.00:193][676]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.03.14-15.27.00:193][676]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2023.03.14-15.27.00:193][676]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.14-15.27.26:501][154]BlueprintLog: New page: Compile Twonic_Player_BP
+[2023.03.14-15.27.26:594][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.03.14-15.27.28:835][278]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.14-15.27.28:860][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.14-15.27.28:860][278]PIE: New page: PIE session: MP_EdusLevel1 (14 Mar 2023, 15:27:28)
+[2023.03.14-15.27.28:889][278]LogPlayLevel: Creating play world package: /Game/Roles/Designer/Clayton/Level/UEDPIE_0_MP_EdusLevel1
+[2023.03.14-15.27.29:037][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.147654s)
+[2023.03.14-15.27.29:038][278]LogAIModule: Creating AISystem for world MP_EdusLevel1
+[2023.03.14-15.27.29:038][278]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2023.03.14-15.27.29:038][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Roles/Designer/Clayton/Level/MP_EdusLevel1.MP_EdusLevel1 to /Game/Roles/Designer/Clayton/Level/UEDPIE_0_MP_EdusLevel1.MP_EdusLevel1 (0.148688s)
+[2023.03.14-15.27.29:055][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.03.14-15.27.29:056][278]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.03.14-15.27.29:056][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.14-15.27.29:056][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.14-15.27.29:056][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.14-15.27.29:056][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.14-15.27.29:056][278]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.14-15.27.29:056][278]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.14-15.27.29:056][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.14-15.27.29:056][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.14-15.27.29:057][278]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.14-15.27.29:057][278]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.14-15.27.29:057][278]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.14-15.27.29:057][278]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.14-15.27.29:059][278]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.14-15.27.29:059][278]LogAudioMixer: Display: 1: FrontRight
+[2023.03.14-15.27.29:068][278]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.14-15.27.29:069][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.14-15.27.29:069][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.14-15.27.29:069][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.14-15.27.29:069][278]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.14-15.27.29:069][278]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.14-15.27.29:069][278]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.14-15.27.29:070][278]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.14-15.27.29:070][278]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.14-15.27.29:070][278]LogInit: FAudioDevice initialized.
+[2023.03.14-15.27.29:070][278]LogAudio: Display: Audio Device (ID: 7) registered with world 'MP_EdusLevel1'.
+[2023.03.14-15.27.29:076][278]LogLoad: Game class is 'TwonicGameMode_C'
+[2023.03.14-15.27.29:094][278]LogWorld: Bringing World /Game/Roles/Designer/Clayton/Level/UEDPIE_0_MP_EdusLevel1.MP_EdusLevel1 up for play (max tick rate 60) at 2023.03.14-15.27.29
+[2023.03.14-15.27.29:094][278]LogWorld: Bringing up level for play took: 0.018094
+[2023.03.14-15.27.29:094][278]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.03.14-15.27.29:105][278]PIE: Server logged in
+[2023.03.14-15.27.29:105][278]PIE: Play in editor total start time 0.265 seconds.
+[2023.03.14-15.28.00:450][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.14-15.28.00:450][155]LogWorld: BeginTearingDown for /Game/Roles/Designer/Clayton/Level/UEDPIE_0_MP_EdusLevel1
+[2023.03.14-15.28.00:451][155]LogWorld: UWorld::CleanupWorld for MP_EdusLevel1, bSessionEnded=true, bCleanupResources=true
+[2023.03.14-15.28.00:456][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.14-15.28.00:466][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.14-15.28.00:490][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.14-15.28.00:506][155]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.14-15.28.00:506][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.14-15.28.00:507][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.14-15.28.00:509][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.14-15.28.00:521][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.03.14-15.28.00:559][156]LogPlayLevel: Display: Destroying online subsystem :Context_14
