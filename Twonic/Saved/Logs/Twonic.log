@@ -993,3 +993,52 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.27-23.04.55:259][290]AssetCheck: New page: Asset Save: multiple assets
 [2023.03.27-23.04.55:259][290]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Roles/Programmer/Bob_Of_The_Coffee/UI_TEST_WORLD_BuiltData.UI_TEST_WORLD_BuiltData
 [2023.03.27-23.04.55:259][290]LogContentValidation: Display: Validating World /Game/Roles/Programmer/Bob_Of_The_Coffee/UI_TEST_WORLD.UI_TEST_WORLD
+[2023.03.27-23.15.27:016][788]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.27-23.15.27:020][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.27-23.15.27:020][788]PIE: New page: PIE session: UI_TEST_WORLD (28 Mar 2023, 01:15:27)
+[2023.03.27-23.15.27:020][788]LogPlayLevel: Creating play world package: /Game/Roles/Programmer/Bob_Of_The_Coffee/UEDPIE_0_UI_TEST_WORLD
+[2023.03.27-23.15.27:059][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038633s)
+[2023.03.27-23.15.27:060][788]LogAIModule: Creating AISystem for world UI_TEST_WORLD
+[2023.03.27-23.15.27:060][788]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2023.03.27-23.15.27:060][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Roles/Programmer/Bob_Of_The_Coffee/UI_TEST_WORLD.UI_TEST_WORLD to /Game/Roles/Programmer/Bob_Of_The_Coffee/UEDPIE_0_UI_TEST_WORLD.UI_TEST_WORLD (0.039833s)
+[2023.03.27-23.15.27:080][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.03.27-23.15.27:081][788]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.03.27-23.15.27:082][788]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.27-23.15.27:082][788]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.27-23.15.27:082][788]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.27-23.15.27:082][788]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.27-23.15.27:082][788]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.27-23.15.27:082][788]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.27-23.15.27:082][788]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.27-23.15.27:082][788]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.27-23.15.27:082][788]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.27-23.15.27:082][788]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.27-23.15.27:082][788]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.27-23.15.27:082][788]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.27-23.15.27:085][788]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.27-23.15.27:085][788]LogAudioMixer: Display: 1: FrontRight
+[2023.03.27-23.15.27:085][788]LogAudioMixer: Display: 2: FrontCenter
+[2023.03.27-23.15.27:085][788]LogAudioMixer: Display: 3: LowFrequency
+[2023.03.27-23.15.27:085][788]LogAudioMixer: Display: 4: BackLeft
+[2023.03.27-23.15.27:085][788]LogAudioMixer: Display: 5: BackRight
+[2023.03.27-23.15.27:085][788]LogAudioMixer: Display: 6: SideLeft
+[2023.03.27-23.15.27:085][788]LogAudioMixer: Display: 7: SideRight
+[2023.03.27-23.15.27:092][788]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G433 Gaming Headset)
+[2023.03.27-23.15.27:092][788]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.27-23.15.27:092][788]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.27-23.15.27:092][788]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.27-23.15.27:092][788]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.27-23.15.27:092][788]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.27-23.15.27:092][788]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.03.27-23.15.27:093][788]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.27-23.15.27:093][788]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.27-23.15.27:093][788]LogInit: FAudioDevice initialized.
+[2023.03.27-23.15.27:093][788]LogAudio: Display: Audio Device (ID: 3) registered with world 'UI_TEST_WORLD'.
+[2023.03.27-23.15.27:097][788]LogLoad: Game class is 'TwonicGameMode_2_C'
+[2023.03.27-23.15.27:099][788]LogWorld: Bringing World /Game/Roles/Programmer/Bob_Of_The_Coffee/UEDPIE_0_UI_TEST_WORLD.UI_TEST_WORLD up for play (max tick rate 0) at 2023.03.28-00.15.27
+[2023.03.27-23.15.27:099][788]LogWorld: Bringing up level for play took: 0.001967
+[2023.03.27-23.15.27:099][788]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.03.27-23.15.27:102][788]PIE: Server logged in
+[2023.03.27-23.15.27:103][788]PIE: Play in editor total start time 0.083 seconds.
+[2023.03.27-23.15.29:747][ 59]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2023.03.27-23.15.32:800][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
