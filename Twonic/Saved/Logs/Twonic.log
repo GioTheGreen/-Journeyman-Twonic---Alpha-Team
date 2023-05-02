@@ -22444,3 +22444,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.02-17.58.08:700][689]AssetCheck: New page: Asset Save: multiple assets
 [2023.05.02-17.58.08:700][689]LogContentValidation: Display: Validating World /Game/Maps/MP_CorruptSecretRoom_2.MP_CorruptSecretRoom_2
 [2023.05.02-17.58.08:700][689]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MP_CorruptSecretRoom_2_BuiltData.MP_CorruptSecretRoom_2_BuiltData
+[2023.05.02-17.59.37:392][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.05.02-17.59.37:660][142]LogSavePackage: Moving 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/MP_CorruptSecretRoom_25FB7ACB8440A07374311738AB5B5A647.tmp' to 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Maps/MP_CorruptSecretRoom_2.umap'
+[2023.05.02-17.59.38:309][142]LogSavePackage: Moving 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/MP_CorruptSecretRoom_2_BuiltData6601B59648B14699D7461AB96BC24510.tmp' to 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Maps/MP_CorruptSecretRoom_2_BuiltData.uasset'
+[2023.05.02-17.59.38:344][142]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.02-17.59.38:344][142]LogContentValidation: Display: Validating World /Game/Maps/MP_CorruptSecretRoom_2.MP_CorruptSecretRoom_2
+[2023.05.02-17.59.38:344][142]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MP_CorruptSecretRoom_2_BuiltData.MP_CorruptSecretRoom_2_BuiltData
