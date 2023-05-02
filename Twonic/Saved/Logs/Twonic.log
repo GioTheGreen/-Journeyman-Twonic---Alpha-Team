@@ -22532,3 +22532,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.02-18.04.36:946][436]LogSavePackage: Moving 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/MP_Level_One714B6D054B5281EEE0315D8155828D8C.tmp' to 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Maps/MP_Level_One.umap'
 [2023.05.02-18.04.36:985][436]AssetCheck: New page: Asset Save: MP_Level_One
 [2023.05.02-18.04.36:986][436]LogContentValidation: Display: Validating World /Game/Maps/MP_Level_One.MP_Level_One
+[2023.05.02-18.05.06:138][618]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Overworld/Sequence_Rock_Shore_Pan.Sequence_Rock_Shore_Pan
+[2023.05.02-18.05.11:384][987]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Overworld/Sequence_Satue_Fythrough.Sequence_Satue_Fythrough
+[2023.05.02-18.05.13:926][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.05.02-18.05.15:023][122]LogSavePackage: Moving 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/MP_Level_One39A56CA3421BD7F8D7728B9493C1BBAC.tmp' to 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Maps/MP_Level_One.umap'
+[2023.05.02-18.05.15:062][122]AssetCheck: New page: Asset Save: MP_Level_One
+[2023.05.02-18.05.15:062][122]LogContentValidation: Display: Validating World /Game/Maps/MP_Level_One.MP_Level_One
