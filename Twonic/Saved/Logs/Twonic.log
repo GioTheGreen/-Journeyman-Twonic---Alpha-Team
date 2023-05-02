@@ -22538,3 +22538,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.02-18.05.15:023][122]LogSavePackage: Moving 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/MP_Level_One39A56CA3421BD7F8D7728B9493C1BBAC.tmp' to 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Maps/MP_Level_One.umap'
 [2023.05.02-18.05.15:062][122]AssetCheck: New page: Asset Save: MP_Level_One
 [2023.05.02-18.05.15:062][122]LogContentValidation: Display: Validating World /Game/Maps/MP_Level_One.MP_Level_One
+[2023.05.02-18.05.47:289][804]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.06.13:995][451]LogEditorViewport: Clicking on Actor (LMB): Manual_Page_C (Manual_Page)
+[2023.05.02-18.06.16:895][668]Cmd: TRANSACTION UNDO
+[2023.05.02-18.06.16:895][668]LogEditorTransaction: Undo Move Actors
+[2023.05.02-18.06.18:378][774]Cmd: SELECT NONE
+[2023.05.02-18.06.28:236][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LP_Wall537)
+[2023.05.02-18.06.29:801][688]Cmd: SELECT NONE
+[2023.05.02-18.06.37:551][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RockWall_3m546)
+[2023.05.02-18.06.39:669][472]Cmd: TRANSACTION UNDO
+[2023.05.02-18.06.39:669][472]LogEditorTransaction: Undo Move Actors
