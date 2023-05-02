@@ -22548,3 +22548,62 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.02-18.06.37:551][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RockWall_3m546)
 [2023.05.02-18.06.39:669][472]Cmd: TRANSACTION UNDO
 [2023.05.02-18.06.39:669][472]LogEditorTransaction: Undo Move Actors
+[2023.05.02-18.09.29:552][804]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Overworld/Sequence_Docks_Overhead_Pan.Sequence_Docks_Overhead_Pan
+[2023.05.02-18.09.48:157][978]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.49:216][ 26]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.49:572][ 52]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.49:794][ 69]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.49:957][ 81]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.50:107][ 93]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.50:239][103]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.50:371][113]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.50:826][149]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.50:986][161]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.51:274][184]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.51:599][208]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.51:749][220]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.51:878][230]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.52:013][241]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.52:155][252]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.52:302][263]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.52:460][275]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.52:784][290]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.53:636][352]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.53:780][365]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.54:350][410]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.09.54:508][419]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.02-18.10.04:647][137]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Overworld/Sequence_Temple_Lead_Up.Sequence_Temple_Lead_Up
+[2023.05.02-18.10.20:737][299]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Overworld/Sequence_Lake_Flythrough.Sequence_Lake_Flythrough
+[2023.05.02-18.10.22:752][424]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Overworld/Sequence_Docks_Overhead_Pan.Sequence_Docks_Overhead_Pan
+[2023.05.02-18.10.45:848][233]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Overworld/Sequence_Satue_Fythrough.Sequence_Satue_Fythrough
+[2023.05.02-18.10.56:547][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.05.02-18.10.57:483][140]LogSlate: Window 'Save Content' being destroyed
+[2023.05.02-18.10.57:526][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.02-18.10.58:592][140]LogSavePackage: Moving 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/MP_Level_OneCA0AD2A14AFC4DC3900CC7B2BB5384BE.tmp' to 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Maps/MP_Level_One.umap'
+[2023.05.02-18.10.58:612][140]LogFileHelpers: Saving map 'MP_Level_One' took 1.113
+[2023.05.02-18.10.58:627][140]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MP_CorruptSecretRoom_2.MP_CorruptSecretRoom_2
+[2023.05.02-18.10.58:627][140]Cmd: MAP LOAD FILE="C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Maps/MP_CorruptSecretRoom_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.02-18.10.58:627][140]LightingResults: New page: Lighting Build
+[2023.05.02-18.10.58:627][140]LoadErrors: New page: Loading map: MP_CorruptSecretRoom_2.umap
+[2023.05.02-18.10.58:711][140]LogWorld: UWorld::CleanupWorld for MP_Level_One, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-18.10.58:712][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-18.10.58:713][140]MapCheck: New page: Map Check
+[2023.05.02-18.10.58:713][140]LightingResults: New page: Lighting Build
+[2023.05.02-18.10.58:740][140]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.02-18.10.58:789][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.05.02-18.10.58:793][140]LogAudio: Display: Audio Device (ID: 1) registered with world 'MP_CorruptSecretRoom_2'.
+[2023.05.02-18.10.59:030][140]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.02-18.10.59:031][140]LogAIModule: Creating AISystem for world MP_CorruptSecretRoom_2
+[2023.05.02-18.10.59:079][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.05.02-18.10.59:098][140]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.02-18.10.59:098][140]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.212ms to complete.
+[2023.05.02-18.10.59:098][140]LogFileHelpers: Loading map 'MP_CorruptSecretRoom_2' took 0.470
+[2023.05.02-18.10.59:122][140]AssetCheck: New page: Asset Save: MP_Level_One
+[2023.05.02-18.10.59:122][140]LogContentValidation: Display: Validating World /Game/Maps/MP_Level_One.MP_Level_One
+[2023.05.02-18.11.13:746][262]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Caves/Sequence_Cave_Ladder_Tack.Sequence_Cave_Ladder_Tack
+[2023.05.02-18.11.17:035][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.05.02-18.11.17:241][528]LogSavePackage: Moving 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/MP_CorruptSecretRoom_2720F45F74791EE5FB59754B943BCEB23.tmp' to 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Maps/MP_CorruptSecretRoom_2.umap'
+[2023.05.02-18.11.17:956][528]LogSavePackage: Moving 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/MP_CorruptSecretRoom_2_BuiltDataF4FB8799474DDABFF87B49B988F24733.tmp' to 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Maps/MP_CorruptSecretRoom_2_BuiltData.uasset'
+[2023.05.02-18.11.17:982][528]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.02-18.11.17:982][528]LogContentValidation: Display: Validating World /Game/Maps/MP_CorruptSecretRoom_2.MP_CorruptSecretRoom_2
+[2023.05.02-18.11.17:982][528]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MP_CorruptSecretRoom_2_BuiltData.MP_CorruptSecretRoom_2_BuiltData
