@@ -22450,3 +22450,85 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.02-17.59.38:344][142]AssetCheck: New page: Asset Save: multiple assets
 [2023.05.02-17.59.38:344][142]LogContentValidation: Display: Validating World /Game/Maps/MP_CorruptSecretRoom_2.MP_CorruptSecretRoom_2
 [2023.05.02-17.59.38:344][142]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MP_CorruptSecretRoom_2_BuiltData.MP_CorruptSecretRoom_2_BuiltData
+[2023.05.02-18.00.38:511][ 16]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Overworld/Sequence_Docks_Overhead_Pan.Sequence_Docks_Overhead_Pan
+[2023.05.02-18.00.54:128][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.05.02-18.00.54:815][115]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MP_Level_One.MP_Level_One
+[2023.05.02-18.00.54:815][115]Cmd: MAP LOAD FILE="C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Maps/MP_Level_One.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.02-18.00.54:815][115]LightingResults: New page: Lighting Build
+[2023.05.02-18.00.54:815][115]LoadErrors: New page: Loading map: MP_Level_One.umap
+[2023.05.02-18.00.54:842][115]LogWorld: UWorld::CleanupWorld for MP_CorruptSecretRoom_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-18.00.54:842][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-18.00.54:843][115]MapCheck: New page: Map Check
+[2023.05.02-18.00.54:843][115]LightingResults: New page: Lighting Build
+[2023.05.02-18.00.54:882][115]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.02-18.00.54:900][115]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.05.02-18.00.54:907][115]LogAudio: Display: Audio Device (ID: 1) registered with world 'MP_Level_One'.
+[2023.05.02-18.00.55:310][115]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.02-18.00.55:311][115]LogAIModule: Creating AISystem for world MP_Level_One
+[2023.05.02-18.00.55:659][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.05.02-18.00.55:677][115]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.02-18.00.55:677][115]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.497ms to complete.
+[2023.05.02-18.00.55:677][115]LogFileHelpers: Loading map 'MP_Level_One' took 0.863
+[2023.05.02-18.01.04:226][832]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Overworld/Sequence_Docks_Overhead_Pan.Sequence_Docks_Overhead_Pan
+[2023.05.02-18.01.23:687][189]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Overworld/Sequence_Lake_Flythrough.Sequence_Lake_Flythrough
+[2023.05.02-18.01.30:599][673]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Caves/Sequence_Cave_Flythrough.Sequence_Cave_Flythrough
+[2023.05.02-18.01.37:790][226]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.05.02-18.01.53:676][ 44]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Overworld/Sequence_Docks_Overhead_Pan.Sequence_Docks_Overhead_Pan
+[2023.05.02-18.02.11:019][869]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Overworld/Sequence_Lake_Flythrough.Sequence_Lake_Flythrough
+[2023.05.02-18.02.14:798][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FurTree51)
+[2023.05.02-18.02.38:416][205]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Overworld/Sequence_Satue_Fythrough.Sequence_Satue_Fythrough
+[2023.05.02-18.02.54:597][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.05.02-18.02.57:169][936]LogSlate: Window 'Save Content' being destroyed
+[2023.05.02-18.02.57:343][936]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MP_CorruptSecretRoom_2.MP_CorruptSecretRoom_2
+[2023.05.02-18.02.57:343][936]Cmd: MAP LOAD FILE="C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Maps/MP_CorruptSecretRoom_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.02-18.02.57:344][936]LightingResults: New page: Lighting Build
+[2023.05.02-18.02.57:344][936]LoadErrors: New page: Loading map: MP_CorruptSecretRoom_2.umap
+[2023.05.02-18.02.57:441][936]LogWorld: UWorld::CleanupWorld for MP_Level_One, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-18.02.57:442][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-18.02.57:443][936]MapCheck: New page: Map Check
+[2023.05.02-18.02.57:443][936]LightingResults: New page: Lighting Build
+[2023.05.02-18.02.57:479][936]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.02-18.02.57:525][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.05.02-18.02.57:529][936]LogAudio: Display: Audio Device (ID: 1) registered with world 'MP_CorruptSecretRoom_2'.
+[2023.05.02-18.02.57:780][936]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.02-18.02.57:780][936]LogAIModule: Creating AISystem for world MP_CorruptSecretRoom_2
+[2023.05.02-18.02.57:833][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.05.02-18.02.57:849][936]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.02-18.02.57:849][936]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.213ms to complete.
+[2023.05.02-18.02.57:849][936]LogFileHelpers: Loading map 'MP_CorruptSecretRoom_2' took 0.506
+[2023.05.02-18.03.12:292][911]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Caves/Sequence_Cave_Ladder_Tack.Sequence_Cave_Ladder_Tack
+[2023.05.02-18.03.20:144][340]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Caves/Sequence_Cave_Flythrough.Sequence_Cave_Flythrough
+[2023.05.02-18.03.39:818][440]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Caves/Sequence_Cave_Ladder_Tack.Sequence_Cave_Ladder_Tack
+[2023.05.02-18.04.04:129][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.05.02-18.04.05:156][473]LogSlate: Window 'Save Content' being destroyed
+[2023.05.02-18.04.05:198][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.05.02-18.04.05:432][473]LogSavePackage: Moving 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/MP_CorruptSecretRoom_2B4E30E0049D3A1A7B87E8ABBCCF2853A.tmp' to 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Maps/MP_CorruptSecretRoom_2.umap'
+[2023.05.02-18.04.05:450][473]LogFileHelpers: Saving map 'MP_CorruptSecretRoom_2' took 0.276
+[2023.05.02-18.04.05:454][473]LogSavePackage: Moving 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Sequence_Cave_Flythrough3116BF34401E35B4CF164AAFE5422B22.tmp' to 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Mel/Level_Sequences/Caves/Sequence_Cave_Flythrough.uasset'
+[2023.05.02-18.04.05:458][473]LogSavePackage: Moving 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/Sequence_Docks_Overhead_Pan490F871B4A41BB6FFCA371990ABCFF66.tmp' to 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Roles/Designer/Mel/Level_Sequences/Overworld/Sequence_Docks_Overhead_Pan.uasset'
+[2023.05.02-18.04.06:172][473]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MP_Level_One.MP_Level_One
+[2023.05.02-18.04.06:172][473]Cmd: MAP LOAD FILE="C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Maps/MP_Level_One.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.02-18.04.06:172][473]LightingResults: New page: Lighting Build
+[2023.05.02-18.04.06:172][473]LoadErrors: New page: Loading map: MP_Level_One.umap
+[2023.05.02-18.04.06:289][473]LogWorld: UWorld::CleanupWorld for MP_CorruptSecretRoom_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-18.04.06:289][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-18.04.06:289][473]MapCheck: New page: Map Check
+[2023.05.02-18.04.06:289][473]LightingResults: New page: Lighting Build
+[2023.05.02-18.04.06:333][473]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.02-18.04.06:343][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2023.05.02-18.04.06:345][473]LogAudio: Display: Audio Device (ID: 1) registered with world 'MP_Level_One'.
+[2023.05.02-18.04.06:742][473]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.02-18.04.06:742][473]LogAIModule: Creating AISystem for world MP_Level_One
+[2023.05.02-18.04.07:102][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.05.02-18.04.07:119][473]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.02-18.04.07:119][473]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.538ms to complete.
+[2023.05.02-18.04.07:119][473]LogFileHelpers: Loading map 'MP_Level_One' took 0.947
+[2023.05.02-18.04.07:155][473]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.02-18.04.07:155][473]LogContentValidation: Display: Validating LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Caves/Sequence_Cave_Flythrough.Sequence_Cave_Flythrough
+[2023.05.02-18.04.07:155][473]LogContentValidation: Display: Validating LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Overworld/Sequence_Docks_Overhead_Pan.Sequence_Docks_Overhead_Pan
+[2023.05.02-18.04.07:155][473]LogContentValidation: Display: Validating World /Game/Maps/MP_CorruptSecretRoom_2.MP_CorruptSecretRoom_2
+[2023.05.02-18.04.16:572][187]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Roles/Designer/Mel/Level_Sequences/Overworld/Sequence_Temple_Lead_Up.Sequence_Temple_Lead_Up
+[2023.05.02-18.04.35:199][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.05.02-18.04.36:946][436]LogSavePackage: Moving 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Saved/MP_Level_One714B6D054B5281EEE0315D8155828D8C.tmp' to 'C:/Users/allin/Desktop/-Journeyman-Twonic---Alpha-Team/-Journeyman-Twonic---Alpha-Team/Twonic/Content/Maps/MP_Level_One.umap'
+[2023.05.02-18.04.36:985][436]AssetCheck: New page: Asset Save: MP_Level_One
+[2023.05.02-18.04.36:986][436]LogContentValidation: Display: Validating World /Game/Maps/MP_Level_One.MP_Level_One
