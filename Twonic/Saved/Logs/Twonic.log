@@ -1747,3 +1747,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.03-18.08.29:837][525]AssetCheck: New page: Asset Save: multiple assets
 [2023.05.03-18.08.29:837][525]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MP_CorruptSecretRoom_2_BuiltData.MP_CorruptSecretRoom_2_BuiltData
 [2023.05.03-18.08.29:837][525]LogContentValidation: Display: Validating World /Game/Maps/MP_CorruptSecretRoom_2.MP_CorruptSecretRoom_2
+[2023.05.03-18.14.56:544][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.05.03-18.14.56:680][213]LogSlate: Window 'Twonic - Unreal Editor' being destroyed
+[2023.05.03-18.14.56:967][214]Cmd: QUIT_EDITOR
+[2023.05.03-18.14.56:967][214]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.05.03-18.14.57:048][214]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.05.03-18.14.57:934][214]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.05.03-18.14.57:935][214]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.05.03-18.14.57:935][214]LogAudio: Display: Audio Device unregistered from world 'MP_CorruptSecretRoom_2'.
+[2023.05.03-18.14.57:947][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.03-18.14.57:948][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.03-18.14.57:956][214]LogAudio: Display: Audio Device Manager Shutdown
+[2023.05.03-18.14.57:956][214]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.03-18.14.57:974][214]LogExit: Preparing to exit.
+[2023.05.03-18.14.58:115][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.05.03-18.14.59:301][214]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.14.59:303][214]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.14.59:722][214]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.14.59:724][214]LogExit: Editor shut down
+[2023.05.03-18.14.59:725][214]LogExit: Transaction tracking system shut down
+[2023.05.03-18.14.59:762][214]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.05.03-18.15.02:507][214]LogExit: Object subsystem successfully closed.
+[2023.05.03-18.15.02:538][214]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.03-18.15.02:538][214]LogShaderCompilers: Display: Total job queries 102, among them cache hits 0 (0.00%)
+[2023.05.03-18.15.02:538][214]LogShaderCompilers: Display: Tracking 102 distinct input hashes that result in 72 distinct outputs (70.59%)
+[2023.05.03-18.15.02:538][214]LogShaderCompilers: Display: RAM used: 0.48 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.06%
+[2023.05.03-18.15.02:538][214]LogShaderCompilers: Display: ================================================
+[2023.05.03-18.15.02:731][214]LogShaderCompilers: Display: Shaders left to compile 0
